@@ -14,17 +14,28 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Cobalt%20Strike-4D4D4D?style=for-the-badge&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerView-557C94?style=for-the-badge&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rubeus-8A4182?style=for-the-badge&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mimikatz-006E99?style=for-the-badge&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qualys-FCC624?style=for-the-badge&logo=&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Nessus-0078D6?style=for-the-badge&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Checkmarx-4D4D4D?style=for-the-badge&logo=&logoColor=white"/>
+
+  <!-- Offensive / Red Team Tools -->
+  <img src="https://img.shields.io/badge/Mythic-4D4D4D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mimikatz-006E99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rubeus-8A4182?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerView-557C94?style=for-the-badge"/>
+
+  <!-- Recon & Scanning -->
+  <img src="https://img.shields.io/badge/Nuclei-1F1F1F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nessus-0078D6?style=for-the-badge"/>
+
+  <!-- Malware / RE -->
+  <img src="https://img.shields.io/badge/Ghidra-FE7A16?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge"/>
+
+  <!-- Scripting -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
+
 
 ---
 
