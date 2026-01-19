@@ -4,12 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔐 **Penetration Tester & Red Teamer** with 3+ years of hands-on experience.
-- 🎓 **Bachelor’s in Computer Science** (Mumbai University, Grade A+).
-- 🛠 Specialize in **Application Security & Red Team Ops**.
-- 🎯 Experience in **Web, API, Mobile (Android), Network Pentesting, Source Code Review, OSINT, Malware Analysis, Configuration Reviews**.
-- 🏆 Certifications: **PNPT**, pursuing **CAPenX**.
-- 📢 Active CTF player on **TryHackMe** & **HackTheBox**.
+Hi, I’m Kunal Deorukhakar, a Penetration Tester and Red Team enthusiast based in India. I focus on web, API, and Android security testing, with hands-on experience in vulnerability assessment, exploit research, and CTFs. I’m passionate about offensive security, continuously sharpening my skills through real-world testing, labs, and security research.
 
 ---
 
@@ -41,7 +36,7 @@
 
 ### 🚀 Skills
 - **Red Teaming & Pentesting**: AD Exploitation, Web/API/Mobile, Phishing, Pivoting, Threat Simulation
-- **Security Assessments**: VAPT, Source Code Review, OSINT, Configuration Audits
+- **Security Assessments**: Source Code Review, OSINT, Configuration Audits
 - **Offensive Tools**: Mythic C2, Impacket, Rubeus, Mimikatz, Certipy, CrackMapExec
 - **Appsec Tools**: Burp Suite Professional, Postman, Genymotion, MobSF, Frida
 - **Malware Analysis Tools**: Strings, PEstudio, Capa, Ghidra, Procmon, API Monitor, Regshot, Virustotal, Any.Run, 
@@ -54,13 +49,15 @@
 - <a href="https://certified.tcm-sec.com/2d00c284-2eed-4b72-9661-d28a7618dedd#acc.7zjiINgb">PNPT (Practical Network Penetration Tester) - TCM Security</a>
 - CAPenX (Pursuing) - SecOps groups
 - Red Teaming Learning Path – TryHackMe
+- <a href="https://www.credly.com/badges/9101f19a-0441-4efe-8b41-cd6c4bd8dc7d"> API Penetration Testing - APIsec University</a>
+- <a href="https://www.credly.com/badges/7f44edf8-f919-4d61-ade1-b25ca4f6ee58"> API Security Fundamentals - APIsec University</a> 
 
 ---
 
 ### 📂 Featured Projects
 #### **VulnDozer**
 - VulnDozer is a Django-based web application for managing security vulnerabilities, projects, and assessments with role-based access control.
-[🔗 View Project]((https://github.com/Kunaldeorukhakar/VulnDozer))
+[🔗 View Project](https://github.com/Kunaldeorukhakar/VulnDozer)
 
 #### **Pentestauto**
 - This Python script automates the process of generating penetration testing reports in Excel format. It utilizes the requests library to gather data from various sources and the openpyxl library to create and manipulate Excel files.  
