@@ -58,9 +58,13 @@
 ---
 
 ### 📂 Featured Projects
+#### **VulnDozer**
+- VulnDozer is a Django-based web application for managing security vulnerabilities, projects, and assessments with role-based access control.
+[🔗 View Project]((https://github.com/Kunaldeorukhakar/VulnDozer))
+
 #### **Pentestauto**
 - This Python script automates the process of generating penetration testing reports in Excel format. It utilizes the requests library to gather data from various sources and the openpyxl library to create and manipulate Excel files.  
-[🔗 View Project](https://github.com/AnikateSawhney/Active-Directory-Penetration-Testing-Lab)
+[🔗 View Project](https://github.com/Kunaldeorukhakar/Pentestauto)
 
 #### **Bug Hunting Automation**
 - A collection of automation scripts and workflows designed to assist in web application bug hunting and reconnaissance.
