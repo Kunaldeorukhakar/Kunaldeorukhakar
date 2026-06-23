@@ -48,7 +48,7 @@ Hi, I’m Kunal Deorukhakar, a Penetration Tester and Red Team enthusiast based 
 ### 🏆 Certifications
 - <a href="https://certified.tcm-sec.com/2d00c284-2eed-4b72-9661-d28a7618dedd#acc.7zjiINgb">PNPT (Practical Network Penetration Tester) - TCM Security</a>
 - CAPenX (Pursuing) - SecOps groups
-- Red Teaming Learning Path – TryHackMe
+- <a href="https://drive.google.com/file/d/1C0iWKSFarrfNuixCoQvwjFHpTtUVmwfp/view">Red Teaming Learning Path – TryHackMe</a>
 - <a href="https://www.credly.com/badges/9101f19a-0441-4efe-8b41-cd6c4bd8dc7d"> API Penetration Testing - APIsec University</a>
 - <a href="https://www.credly.com/badges/7f44edf8-f919-4d61-ade1-b25ca4f6ee58"> API Security Fundamentals - APIsec University</a> 
 
